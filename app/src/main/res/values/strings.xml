@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="offline">Offline</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for your location</string>
+    <string name="online_driver">Online</string>
+</resources>
